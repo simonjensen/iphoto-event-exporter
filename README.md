@@ -15,7 +15,6 @@ $ npm install
 ```
 
 ### Usage
-Intro ...
 
 ```sh
 Usage: iphoto-export [options]
